@@ -8,7 +8,7 @@ namespace Truename
 
  { Console.write ("Введите свое имя: ");
  string name = Console.Readline();
- name=Console.WriteLine( '\U+0412''\U+043''\EU+0432''\U+043''\AU+0430''\U+043''\BU+043''\EU+0445');
+ name=Console.WriteLine(A+S+S);
  Console.Readkey();
     }
   }
